@@ -1,0 +1,15 @@
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/bin/Debug/net6.0/MainSalaryProject
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/bin/Debug/net6.0/MainSalaryProject.deps.json
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/bin/Debug/net6.0/MainSalaryProject.runtimeconfig.json
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/bin/Debug/net6.0/MainSalaryProject.dll
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/bin/Debug/net6.0/MainSalaryProject.pdb
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/obj/Debug/net6.0/MainSalaryProject.csproj.AssemblyReference.cache
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/obj/Debug/net6.0/MainSalaryProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/obj/Debug/net6.0/MainSalaryProject.AssemblyInfoInputs.cache
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/obj/Debug/net6.0/MainSalaryProject.AssemblyInfo.cs
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/obj/Debug/net6.0/MainSalaryProject.csproj.CoreCompileInputs.cache
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/obj/Debug/net6.0/MainSalaryProject.dll
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/obj/Debug/net6.0/refint/MainSalaryProject.dll
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/obj/Debug/net6.0/MainSalaryProject.pdb
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/obj/Debug/net6.0/MainSalaryProject.genruntimeconfig.cache
+/Users/shovket/Projects/MainSalaryProject/MainSalaryProject/obj/Debug/net6.0/ref/MainSalaryProject.dll
