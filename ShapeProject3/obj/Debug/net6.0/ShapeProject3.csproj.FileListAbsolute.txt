@@ -1,0 +1,15 @@
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/bin/Debug/net6.0/ShapeProject3
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/bin/Debug/net6.0/ShapeProject3.deps.json
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/bin/Debug/net6.0/ShapeProject3.runtimeconfig.json
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/bin/Debug/net6.0/ShapeProject3.dll
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/bin/Debug/net6.0/ShapeProject3.pdb
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/obj/Debug/net6.0/ShapeProject3.csproj.AssemblyReference.cache
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/obj/Debug/net6.0/ShapeProject3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/obj/Debug/net6.0/ShapeProject3.AssemblyInfoInputs.cache
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/obj/Debug/net6.0/ShapeProject3.AssemblyInfo.cs
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/obj/Debug/net6.0/ShapeProject3.csproj.CoreCompileInputs.cache
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/obj/Debug/net6.0/ShapeProject3.dll
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/obj/Debug/net6.0/refint/ShapeProject3.dll
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/obj/Debug/net6.0/ShapeProject3.pdb
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/obj/Debug/net6.0/ShapeProject3.genruntimeconfig.cache
+/Users/shovket/Projects/ShapeProject3/ShapeProject3/obj/Debug/net6.0/ref/ShapeProject3.dll
